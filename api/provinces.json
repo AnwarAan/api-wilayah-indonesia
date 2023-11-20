@@ -1,1 +1,335 @@
-[{"id":"11","name":"ACEH"},{"id":"12","name":"SUMATERA UTARA"},{"id":"13","name":"SUMATERA BARAT"},{"id":"14","name":"RIAU"},{"id":"15","name":"JAMBI"},{"id":"16","name":"SUMATERA SELATAN"},{"id":"17","name":"BENGKULU"},{"id":"18","name":"LAMPUNG"},{"id":"19","name":"KEPULAUAN BANGKA BELITUNG"},{"id":"21","name":"KEPULAUAN RIAU"},{"id":"31","name":"DKI JAKARTA"},{"id":"32","name":"JAWA BARAT"},{"id":"33","name":"JAWA TENGAH"},{"id":"34","name":"DI YOGYAKARTA"},{"id":"35","name":"JAWA TIMUR"},{"id":"36","name":"BANTEN"},{"id":"51","name":"BALI"},{"id":"52","name":"NUSA TENGGARA BARAT"},{"id":"53","name":"NUSA TENGGARA TIMUR"},{"id":"61","name":"KALIMANTAN BARAT"},{"id":"62","name":"KALIMANTAN TENGAH"},{"id":"63","name":"KALIMANTAN SELATAN"},{"id":"64","name":"KALIMANTAN TIMUR"},{"id":"65","name":"KALIMANTAN UTARA"},{"id":"71","name":"SULAWESI UTARA"},{"id":"72","name":"SULAWESI TENGAH"},{"id":"73","name":"SULAWESI SELATAN"},{"id":"74","name":"SULAWESI TENGGARA"},{"id":"75","name":"GORONTALO"},{"id":"76","name":"SULAWESI BARAT"},{"id":"81","name":"MALUKU"},{"id":"82","name":"MALUKU UTARA"},{"id":"91","name":"PAPUA BARAT"},{"id":"94","name":"PAPUA"}]
+[
+  {
+    "id": "11",
+    "name": "Aceh",
+    "coordinates": {
+      "lat": "4.695135",
+      "lng": "96.7493993"
+    },
+    "google_place_id": "ChIJvcR8UN-bOTARYMogsoCdAwE"
+  },
+  {
+    "id": "12",
+    "name": "Sumatera Utara",
+    "coordinates": {
+      "lat": "2.1153547",
+      "lng": "99.5450974"
+    },
+    "google_place_id": "ChIJhxxy61r51y8RC8vXCYE-p6w"
+  },
+  {
+    "id": "13",
+    "name": "Sumatera Barat",
+    "coordinates": {
+      "lat": "-0.7399397",
+      "lng": "100.8000051"
+    },
+    "google_place_id": "ChIJRUJ08Ey51C8RVTvVdblRsXA"
+  },
+  {
+    "id": "14",
+    "name": "Riau",
+    "coordinates": {
+      "lat": "-6.9067461",
+      "lng": "107.6079607"
+    },
+    "google_place_id": "ChIJt3mSk0fmaC4R6ZHBeHynOQw"
+  },
+  {
+    "id": "15",
+    "name": "Jambi",
+    "coordinates": {
+      "lat": "-1.6101229",
+      "lng": "103.6131203"
+    },
+    "google_place_id": "ChIJO83is5qIJS4RDdmyCseZWtE"
+  },
+  {
+    "id": "16",
+    "name": "Sumatera Selatan",
+    "coordinates": {
+      "lat": "-3.3194374",
+      "lng": "103.914399"
+    },
+    "google_place_id": "ChIJLeo1PXWLEC4Rz8QB4gGB_Bg"
+  },
+  {
+    "id": "17",
+    "name": "Bengkulu",
+    "coordinates": {
+      "lat": "-3.7928451",
+      "lng": "102.2607641"
+    },
+    "google_place_id": "ChIJeZLjNx6wNi4R6qaQ53a1eaA"
+  },
+  {
+    "id": "18",
+    "name": "Lampung",
+    "coordinates": {
+      "lat": "-4.5585849",
+      "lng": "105.4068079"
+    },
+    "google_place_id": "ChIJpyKsUwF2Oy4RmrCJX8dYO48"
+  },
+  {
+    "id": "19",
+    "name": "Kepulauan Bangka Belitung",
+    "coordinates": {
+      "lat": "-2.7410513",
+      "lng": "106.4405872"
+    },
+    "google_place_id": "ChIJizmlLUMWFy4RuSOEsf04fhI"
+  },
+  {
+    "id": "21",
+    "name": "Kepulauan Riau",
+    "coordinates": {
+      "lat": "3.9456514",
+      "lng": "108.1428669"
+    },
+    "google_place_id": "ChIJAQuH1E1l2TERvCSFiXW1RnI"
+  },
+  {
+    "id": "31",
+    "name": "DKI Jakarta",
+    "coordinates": {
+      "lat": "-6.2087634",
+      "lng": "106.845599"
+    },
+    "google_place_id": "ChIJnUvjRenzaS4RoobX2g-_cVM"
+  },
+  {
+    "id": "32",
+    "name": "Jawa Barat",
+    "coordinates": {
+      "lat": "-7.090911",
+      "lng": "107.668887"
+    },
+    "google_place_id": "ChIJf0dSgjnmaC4Rfp2O_FSkGLw"
+  },
+  {
+    "id": "33",
+    "name": "Jawa Tengah",
+    "coordinates": {
+      "lat": "-7.150975",
+      "lng": "110.1402594"
+    },
+    "google_place_id": "ChIJ3RjVnJt1ZS4RRrztj53Rd8M"
+  },
+  {
+    "id": "34",
+    "name": "Daerah Istimewa Yogyakarta",
+    "coordinates": {
+      "lat": "-7.8753849",
+      "lng": "110.4262088"
+    },
+    "google_place_id": "ChIJxWtbvYdXei4R8LPIyrKSG20"
+  },
+  {
+    "id": "35",
+    "name": "Jawa Timur",
+    "coordinates": {
+      "lat": "-7.5360639",
+      "lng": "112.2384017"
+    },
+    "google_place_id": "ChIJxbXun_eToy0RULh8yvsLAwE"
+  },
+  {
+    "id": "36",
+    "name": "Banten",
+    "coordinates": {
+      "lat": "-6.4058172",
+      "lng": "106.0640179"
+    },
+    "google_place_id": "ChIJmbkNxNaKQS4R6bMai6ua074"
+  },
+  {
+    "id": "51",
+    "name": "Bali",
+    "coordinates": {
+      "lat": "-8.4095178",
+      "lng": "115.188916"
+    },
+    "google_place_id": "ChIJoQ8Q6NNB0S0RkOYkS7EPkSQ"
+  },
+  {
+    "id": "52",
+    "name": "Nusa Tenggara Barat",
+    "coordinates": {
+      "lat": "-8.6529334",
+      "lng": "117.3616476"
+    },
+    "google_place_id": "ChIJIe0SGpQNuC0RxXX30MzCZ2k"
+  },
+  {
+    "id": "53",
+    "name": "Nusa Tenggara Timur",
+    "coordinates": {
+      "lat": "-8.6573819",
+      "lng": "121.0793705"
+    },
+    "google_place_id": "ChIJlzbpqE3yUiwR4Br3yvsLAwE"
+  },
+  {
+    "id": "61",
+    "name": "Kalimantan Barat",
+    "coordinates": {
+      "lat": "-0.2787808",
+      "lng": "111.4752851"
+    },
+    "google_place_id": "ChIJu_7rjBcYBS4RoEghTO3sXM0"
+  },
+  {
+    "id": "62",
+    "name": "Kalimantan Tengah",
+    "coordinates": {
+      "lat": "-1.6814878",
+      "lng": "113.3823545"
+    },
+    "google_place_id": "ChIJP5a8hrK_4i0Rrmv1g2fV288"
+  },
+  {
+    "id": "63",
+    "name": "Kalimantan Selatan",
+    "coordinates": {
+      "lat": "-3.0926415",
+      "lng": "115.2837585"
+    },
+    "google_place_id": "ChIJRbTSvTm33S0RE8GXt1C2fhQ"
+  },
+  {
+    "id": "64",
+    "name": "Kalimantan Timur",
+    "coordinates": {
+      "lat": "0.5386586",
+      "lng": "116.419389"
+    },
+    "google_place_id": "ChIJkZxNlhBH8S0R13bjLx2wq8Q"
+  },
+  {
+    "id": "65",
+    "name": "Kalimantan Utara",
+    "coordinates": {
+      "lat": "3.0730929",
+      "lng": "116.0413889"
+    },
+    "google_place_id": "ChIJ9wvfNH0GDzIRiLlGaN3wERk"
+  },
+  {
+    "id": "71",
+    "name": "Sulawesi Utara",
+    "coordinates": {
+      "lat": "0.6246932",
+      "lng": "123.9750018"
+    },
+    "google_place_id": "ChIJMZ4GcEJ1hzIRNbgMmBcWiUU"
+  },
+  {
+    "id": "72",
+    "name": "Sulawesi Tengah",
+    "coordinates": {
+      "lat": "-1.4300254",
+      "lng": "121.4456179"
+    },
+    "google_place_id": "ChIJPS2aZckJiC0RmWLbjP0zbkM"
+  },
+  {
+    "id": "73",
+    "name": "Sulawesi Selatan",
+    "coordinates": {
+      "lat": "-7.7664389",
+      "lng": "110.3386386"
+    },
+    "google_place_id": "ChIJC57LtnBYei4ReNC8wiEP5_Y"
+  },
+  {
+    "id": "74",
+    "name": "Sulawesi Tenggara",
+    "coordinates": {
+      "lat": "-1.8479",
+      "lng": "120.5279"
+    },
+    "google_place_id": "ChIJMSoBqds3hS0RQnf0aNFRmrw"
+  },
+  {
+    "id": "75",
+    "name": "Gorontalo",
+    "coordinates": {
+      "lat": "0.5435442",
+      "lng": "123.0567693"
+    },
+    "google_place_id": "ChIJXeflmUcreTIRZ1kVIwlNzG0"
+  },
+  {
+    "id": "76",
+    "name": "Sulawesi Barat",
+    "coordinates": {
+      "lat": "-2.8441371",
+      "lng": "119.2320784"
+    },
+    "google_place_id": "ChIJCUS7VCTaki0R8nAzLyC_XOo"
+  },
+  {
+    "id": "81",
+    "name": "Maluku",
+    "coordinates": {
+      "lat": "-3.2384616",
+      "lng": "130.1452734"
+    },
+    "google_place_id": "ChIJ36EccLq8ES0RUZpkBNvoMF4"
+  },
+  {
+    "id": "82",
+    "name": "Maluku Utara",
+    "coordinates": {
+      "lat": "1.5709993",
+      "lng": "127.8087693"
+    },
+    "google_place_id": "ChIJszIkro6uni0RwBr3yvsLAwE"
+  },
+  {
+    "id": "91",
+    "name": "Papua",
+    "coordinates": {
+      "lat": "-4.269928",
+      "lng": "138.0803529"
+    },
+    "google_place_id": "ChIJc5L_qgQsO2gRc-bvXpxOqes"
+  },
+  {
+    "id": "92",
+    "name": "Papua Barat",
+    "coordinates": {
+      "lat": "-1.3361154",
+      "lng": "133.1747162"
+    },
+    "google_place_id": "ChIJLQviub0KVC0RYsvHxfjBSVM"
+  },
+  {
+    "id": "93",
+    "name": "Papua Selatan",
+    "coordinates": {
+      "lat": "-4.269928",
+      "lng": "138.0803529"
+    },
+    "google_place_id": "ChIJc5L_qgQsO2gRc-bvXpxOqes"
+  },
+  {
+    "id": "94",
+    "name": "Papua Tengah",
+    "coordinates": {
+      "lat": "-4.269928",
+      "lng": "138.0803529"
+    },
+    "google_place_id": "ChIJc5L_qgQsO2gRc-bvXpxOqes"
+  },
+  {
+    "id": "95",
+    "name": "Papua Pegunungan",
+    "coordinates": {
+      "lat": "-4.269928",
+      "lng": "138.0803529"
+    },
+    "google_place_id": "ChIJc5L_qgQsO2gRc-bvXpxOqes"
+  }
+]
